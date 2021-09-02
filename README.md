@@ -1,6 +1,25 @@
-# Project Final Home Loans
+# Project Final Home Loans Page Data Diri
 
 Project ini masih belum responsive dan baru tahap pembuatan UI staticnya.
+
+Dan karena pembagiannya saya mendapatkan halaman data diri, maka fokus saja di `component/pages/Data-Diri.jsx`.
+Tapi karena ini React Js jadi semua file itu terhubung satu sama lain.
+
+Untuk CSSnya ada di file index.css pada folder `assets/css/index.css`
+
+## Preview
+
+![home-loans-data-diri](https://user-images.githubusercontent.com/71351196/131857728-15ceb35d-d3af-4986-97ef-f7294fc0be85.png)
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 <!-- # Getting Started with Create React App
 

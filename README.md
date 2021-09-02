@@ -13,13 +13,9 @@ Untuk CSSnya ada di file index.css pada folder `assets/css/index.css`
 
 ### Cara Menjalankan Program
 
-Jalan `npm install` di Terminal untuk menginstall folder.\
-
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ketikan `npm install` di Terminal untuk menginstall folder ./node_modules
 
 Kemudian ketikan `npm start` untuk menjalankan program.
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 <!-- # Getting Started with Create React App
 

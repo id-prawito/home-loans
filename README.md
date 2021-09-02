@@ -11,13 +11,13 @@ Untuk CSSnya ada di file index.css pada folder `assets/css/index.css`
 
 ![home-loans-data-diri](https://user-images.githubusercontent.com/71351196/131857728-15ceb35d-d3af-4986-97ef-f7294fc0be85.png)
 
-### `npm run build`
+### Cara Menjalankan Program
 
-Builds the app for production to the `build` folder.\
+Jalan `npm install` di Terminal untuk menginstall folder.\
+
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Kemudian ketikan `npm start` untuk menjalankan program.
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
